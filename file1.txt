@@ -4,4 +4,3 @@ this is for test purpose
 this is to check the conflict during local merge
 
 this is branch1
-this is branch1
